@@ -1,5 +1,5 @@
 
-# pets
+# pets <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
 The goal of pets is to provide a simple means for people to express
 their feelings about pets. At present, the package only contains one
