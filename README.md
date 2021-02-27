@@ -1,6 +1,8 @@
 
 # pets <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
+https://jessdiallo.github.io/pets/index.html
+
 The goal of pets is to provide a simple means for people to express
 their feelings about pets. At present, the package only contains one
 function: `cats()`.
